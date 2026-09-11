@@ -34,11 +34,10 @@
 
 ---
 
-### 📊 Статистика на GitHub:
+### 📊 Активність на GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=MrcKlim&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=MrcKlim&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrcKlim&theme=github-compact" width="100%" />
 </p>
 
 ---
