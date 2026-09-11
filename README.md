@@ -37,8 +37,8 @@
 ### 📊 Статистика на GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrcKlim&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrcKlim&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=MrcKlim&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=MrcKlim&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
