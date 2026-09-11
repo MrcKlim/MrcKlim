@@ -37,8 +37,7 @@
 ### 📊 Статистика на GitHub:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrcKlim&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrcKlim&theme=github-compact&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=MrcKlim&theme=radical&hide_border=true" width="70%" />
 </p>
 
 ---
