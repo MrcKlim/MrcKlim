@@ -47,14 +47,6 @@
 
 ---
 
-### 📊 Статистика на GitHub:
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrcKlim&theme=radical&hide_border=true" width="70%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%" />
 </p>
